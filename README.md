@@ -11,9 +11,9 @@
 - Gave CSS classes more specific selectors and generalized repeating code
   
   
-##Screenshot
+## Screenshot
   
-##Deployed Site
+## Deployed Site
 
 https://risleydwayne.github.io/horiseon-inc/
 
