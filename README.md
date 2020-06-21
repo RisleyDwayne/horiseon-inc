@@ -10,6 +10,7 @@
 - Fixed link ID so navigation works correctly
 - Gave CSS classes more specific selectors and generalized repeating code
   
+  
 ##Screenshot
   
 ##Deployed Site
