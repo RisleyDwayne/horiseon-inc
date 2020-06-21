@@ -14,4 +14,5 @@
 ##Screenshot
   
 ##Deployed Site
-  
+https://risleydwayne.github.io/horiseon-inc/
+
